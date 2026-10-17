@@ -1,0 +1,68 @@
+{
+  "bangsaen": {
+    "file": "File:Bang Saen Beach 01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bang_Saen_Beach_01.jpg",
+    "artist": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Bang Saen Beach",
+    "image": "assets/images/bangsaen.jpg"
+  },
+  "kohlarn": {
+    "file": "File:Tawaen Beach, Ko Lan 0001.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tawaen_Beach,_Ko_Lan_0001.jpg",
+    "artist": "Stefan Fussan",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Tawaen Beach, Ko Lan, Chonburi Province, Thailand",
+    "image": "assets/images/kohlarn.jpg"
+  },
+  "nongnooch": {
+    "file": "File:Overview Nong Nooch Botanical Garden.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Overview_Nong_Nooch_Botanical_Garden.jpg",
+    "artist": "Christoph Jackel (WMDE)",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "description": "Overview Nong Nooch Botanical Garden",
+    "image": "assets/images/nongnooch.jpg"
+  },
+  "khaokheow": {
+    "file": "File:Rhino in khao kheow open zoo - panoramio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhino_in_khao_kheow_open_zoo_-_panoramio.jpg",
+    "artist": "Yellow man",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "description": "Rhino in khao kheow open zoo",
+    "image": "assets/images/khaokheow.jpg",
+    "caption": "แรดในสวนสัตว์เปิดเขาเขียว"
+  },
+  "sammuk": {
+    "file": "File:Khao Sam Muk18.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Khao_Sam_Muk18.JPG",
+    "artist": "Xufanc",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "View of Khao Sam Muk (เขาสามมุข) from the south",
+    "image": "assets/images/sammuk.jpg"
+  },
+  "ang-sila": {
+    "file": "File:ทะเล อ่างศิลา เชิญแวะเที่ยว ตลาดเก่าอ่างศิลา - panoramio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5_%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2_%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B9%81%E0%B8%A7%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7_%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2_-_panoramio.jpg",
+    "artist": "silaporn",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "description": "ทะเล อ่างศิลา เชิญแวะเที่ยว ตลาดเก่าอ่างศิลา",
+    "image": "assets/images/ang-sila.jpg",
+    "caption": "บรรยากาศชายฝั่งย่านอ่างศิลา"
+  },
+  "sichang": {
+    "file": "File:Town of Amphoe Ko Sichang.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Town_of_Amphoe_Ko_Sichang.jpg",
+    "artist": "JingJun",
+    "license": "CC0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Picture taken on viewpoint on April 2017",
+    "image": "assets/images/sichang.jpg",
+    "caption": "ทิวทัศน์ชุมชนเกาะสีชัง"
+  }
+}
