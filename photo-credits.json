@@ -1,0 +1,398 @@
+{
+  "bangsaen": {
+    "file": "File:Bang Saen Beach 01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bang_Saen_Beach_01.jpg",
+    "artist": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Bang Saen Beach",
+    "image": "assets/images/bangsaen.jpg"
+  },
+  "kohlarn": {
+    "file": "File:Tawaen Beach, Ko Lan 0001.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tawaen_Beach,_Ko_Lan_0001.jpg",
+    "artist": "Stefan Fussan",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Tawaen Beach, Ko Lan, Chonburi Province, Thailand",
+    "image": "assets/images/kohlarn.jpg"
+  },
+  "nongnooch": {
+    "file": "File:Overview Nong Nooch Botanical Garden.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Overview_Nong_Nooch_Botanical_Garden.jpg",
+    "artist": "Christoph Jackel (WMDE)",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "description": "Overview Nong Nooch Botanical Garden",
+    "image": "assets/images/nongnooch.jpg"
+  },
+  "khaokheow": {
+    "file": "File:Rhino in khao kheow open zoo - panoramio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhino_in_khao_kheow_open_zoo_-_panoramio.jpg",
+    "artist": "Yellow man",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "description": "Rhino in khao kheow open zoo",
+    "image": "assets/images/khaokheow.jpg",
+    "caption": "แรดในสวนสัตว์เปิดเขาเขียว"
+  },
+  "sammuk": {
+    "file": "File:Khao Sam Muk18.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Khao_Sam_Muk18.JPG",
+    "artist": "Xufanc",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "View of Khao Sam Muk (เขาสามมุข) from the south",
+    "image": "assets/images/sammuk.jpg"
+  },
+  "ang-sila": {
+    "file": "File:ทะเล อ่างศิลา เชิญแวะเที่ยว ตลาดเก่าอ่างศิลา - panoramio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5_%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2_%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B9%81%E0%B8%A7%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7_%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2_-_panoramio.jpg",
+    "artist": "silaporn",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "description": "ทะเล อ่างศิลา เชิญแวะเที่ยว ตลาดเก่าอ่างศิลา",
+    "image": "assets/images/ang-sila.jpg",
+    "caption": "บรรยากาศชายฝั่งย่านอ่างศิลา"
+  },
+  "sichang": {
+    "file": "File:Town of Amphoe Ko Sichang.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Town_of_Amphoe_Ko_Sichang.jpg",
+    "artist": "JingJun",
+    "license": "CC0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Picture taken on viewpoint on April 2017",
+    "image": "assets/images/sichang.jpg",
+    "caption": "ทิวทัศน์ชุมชนเกาะสีชัง"
+  },
+  "pattaya-beach": {
+    "file": "File:Pattaya Beach, Trees, Thailand.jpg",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pattaya_Beach,_Trees,_Thailand.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "image": "assets/images/pattaya-beach.jpg",
+    "caption": "หาดพัทยา",
+    "originalImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Pattaya_Beach%2C_Trees%2C_Thailand.jpg/1280px-Pattaya_Beach%2C_Trees%2C_Thailand.jpg"
+  },
+  "jomtien": {
+    "file": "File:Jomtien Beach 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jomtien_Beach_1.jpg",
+    "artist": "Pescov",
+    "image": "assets/images/jomtien.jpg",
+    "caption": "หาดจอมเทียน",
+    "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jomtien_Beach_1.jpg"
+  },
+  "wat-yai": {
+    "file": "File:วัดใหญ่อินทาราม อ.เมือง จ.ชลบุรี (6).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%8A%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5_(6).jpg",
+    "artist": "กสิณธร ราชโอรส",
+    "image": "assets/images/wat-yai.jpg",
+    "caption": "วัดใหญ่อินทาราม",
+    "originalImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%8A%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5_%286%29.jpg/1280px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%8A%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5_%286%29.jpg"
+  },
+  "nongmon": {
+    "source": "https://th.readme.me/p/27896",
+    "artist": "Readme.me",
+    "image": "assets/images/nongmon.jpg",
+    "caption": "ตลาดหนองมน",
+    "file": "ตลาดหนองมน",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://th.readme.me/p/27896",
+    "originalImage": "https://asset.readme.me/files/27896/5da1818dc4c9cf7ee4a59c97.jpg"
+  },
+  "bangsaray": {
+    "source": "https://chillpainai.com/travels/562",
+    "artist": "Chillpainai",
+    "image": "assets/images/bangsaray.jpg",
+    "caption": "หาดบางเสร่",
+    "file": "หาดบางเสร่",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://chillpainai.com/travels/562",
+    "originalImage": "https://www.chillpainai.com/src/wewakeup/hilight_travel/562.jpg"
+  },
+  "nangram": {
+    "source": "https://tripth.com/หาดนางรำ/",
+    "artist": "TripTH",
+    "image": "assets/images/nangram.jpg",
+    "caption": "หาดนางรำ",
+    "file": "หาดนางรำ",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://tripth.com/หาดนางรำ/",
+    "originalImage": "https://www.tripth.com/wp-content/uploads/2016/05/%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B3-1-1024x768.jpg"
+  },
+  "nangrong": {
+    "source": "https://www.sattahipcity.com/sattahip-beach/item/134-video-present-nang-rong-samaesarn-beach.html",
+    "artist": "Sattahipcity",
+    "image": "assets/images/nangrong.jpg",
+    "caption": "หาดนางรอง",
+    "file": "หาดนางรอง",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.sattahipcity.com/sattahip-beach/item/134-video-present-nang-rong-samaesarn-beach.html",
+    "originalImage": "https://www.sattahipcity.com/media/k2/items/cache/62fb5f1024529266c6e71c0c0c9ddb3c_XL.jpg"
+  },
+  "samaesan": {
+    "source": "https://www.stayokaysattahip.com/post/เกาะแสมสาร-1",
+    "artist": "Stayokay Sattahip",
+    "image": "assets/images/samaesan.jpg",
+    "caption": "เกาะแสมสาร",
+    "file": "เกาะแสมสาร",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.stayokaysattahip.com/post/เกาะแสมสาร-1",
+    "originalImage": "https://static.wixstatic.com/media/f7395a_ccd02d19ea204b9e9f8d29e070365fd1~mv2.jpg"
+  },
+  "kham": {
+    "source": "https://chillpainai.com/scoop/9762",
+    "artist": "Chillpainai",
+    "image": "assets/images/kham.jpg",
+    "caption": "เกาะขาม สัตหีบ",
+    "file": "เกาะขาม สัตหีบ",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://chillpainai.com/scoop/9762",
+    "originalImage": "https://www.chillpainai.com/src/wewakeup/scoop/images/cab9520c7dd0d58d4d819074a02c09485b525614.jpg"
+  },
+  "wat-yan": {
+    "source": "https://tripth.com/วัดญาณสังวรารามวรมหาวิหาร/",
+    "artist": "TripTH",
+    "image": "assets/images/wat-yan.jpg",
+    "caption": "วัดญาณสังวรารามวรมหาวิหาร",
+    "file": "วัดญาณสังวรารามวรมหาวิหาร",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://tripth.com/วัดญาณสังวรารามวรมหาวิหาร/",
+    "originalImage": "https://www.tripth.com/wp-content/uploads/2016/07/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%A2%E0%B8%B2-2.jpg"
+  },
+  "wat-tabaek": {
+    "source": "https://mthai.com/travel/chon-buri/319796.html",
+    "artist": "MThai",
+    "image": "assets/images/wat-tabaek.jpg",
+    "caption": "วัดเขาตะแบก",
+    "file": "วัดเขาตะแบก",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://mthai.com/travel/chon-buri/319796.html",
+    "originalImage": "https://mthai.com/app/uploads/2023/04/01_wat_kao_tabaak_mthai.jpg"
+  },
+  "wat-sattahip": {
+    "source": "https://www.sattahipcity.com/sattahip-travel-map/item/84-travel-and-tourist-guide-sattahip-temple.html",
+    "artist": "Sattahipcity",
+    "image": "assets/images/wat-sattahip.jpg",
+    "caption": "วัดสัตหีบ (วัดหลวงพ่ออี๋)",
+    "file": "วัดสัตหีบ (วัดหลวงพ่ออี๋)",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.sattahipcity.com/sattahip-travel-map/item/84-travel-and-tourist-guide-sattahip-temple.html",
+    "originalImage": "https://www.sattahipcity.com/images/gallery/sattahip_travel/sattahip_temple/sattahip_temple_004.jpg"
+  },
+  "wat-sam": {
+    "source": "https://www.wongnai.com/attractions/353437cS/photos/906c0cfca3f64a9583f3ea9829e1ab09",
+    "artist": "Wongnai / ผู้เผยแพร่ภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/wat-sam.jpg",
+    "caption": "วัดหลวงพี่แซม",
+    "file": "วัดหลวงพี่แซม",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.wongnai.com/attractions/353437cS/photos/906c0cfca3f64a9583f3ea9829e1ab09",
+    "originalImage": "https://img.wongnai.com/p/1920x0/2022/12/28/906c0cfca3f64a9583f3ea9829e1ab09.jpg"
+  },
+  "naja": {
+    "source": "https://www.palanla.com/index.php?id=840&op=domesticLocation-detail",
+    "artist": "Palanla",
+    "image": "assets/images/naja.jpg",
+    "caption": "ศาลเจ้าหน่าจาซาไท้จื้อ",
+    "file": "ศาลเจ้าหน่าจาซาไท้จื้อ",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.palanla.com/index.php?id=840&op=domesticLocation-detail",
+    "originalImage": "https://www.palanla.com/upload/dms/real/pic-202317011673975419_49875.jpg"
+  },
+  "chichan": {
+    "source": "https://m.thetrippacker.com/th/place/BuddhaMountainKhaoCheechan/17796",
+    "artist": "TheTripPacker / ผู้เผยแพร่ภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/chichan.jpg",
+    "caption": "พระพุทธรูปแกะสลักเขาชีจรรย์",
+    "file": "พระพุทธรูปแกะสลักเขาชีจรรย์",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://m.thetrippacker.com/th/place/BuddhaMountainKhaoCheechan/17796",
+    "originalImage": "https://f.tpkcdn.com/images-source/22feeeb11bd6b4f0b601a4c9dfbef9fe.jpg"
+  },
+  "sanctuary": {
+    "source": "https://www.sanook.com/movie/141819/",
+    "artist": "Sanook / แหล่งภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/sanctuary.jpg",
+    "caption": "ปราสาทสัจธรรม",
+    "file": "ปราสาทสัจธรรม",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.sanook.com/movie/141819/",
+    "originalImage": "https://s.isanook.com/mv/0/ui/28/141819/Netflix_Money-Heist.jpeg"
+  },
+  "bangphra": {
+    "source": "https://tiewkan.com/ที่เที่ยวชลบุรี/",
+    "artist": "Tiewkan",
+    "image": "assets/images/bangphra.jpg",
+    "caption": "อ่างเก็บน้ำบางพระ",
+    "file": "อ่างเก็บน้ำบางพระ",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://tiewkan.com/ที่เที่ยวชลบุรี/",
+    "originalImage": "https://tiewkan.com/upload/2023/05/89c58d994.jpg.webp"
+  },
+  "pratamnak": {
+    "source": "https://smartdastaapp.dasta.or.th/map/114?lang=th",
+    "artist": "SMART DASTA",
+    "image": "assets/images/pratamnak.jpg",
+    "caption": "จุดชมวิวเขาพระตำหนัก",
+    "file": "จุดชมวิวเขาพระตำหนัก",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://smartdastaapp.dasta.or.th/map/114?lang=th",
+    "originalImage": "https://smartdastaapp.dasta.or.th/upload/journey_items/264/images/photos/original/evyh0bk9v7.jpg"
+  },
+  "marine": {
+    "source": "https://www.wongnai.com/attractions/324379Rs/photos/b771024ed86c45f09596a7f3a0142d5c",
+    "artist": "Wongnai / ผู้เผยแพร่ภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/marine.jpg",
+    "caption": "สถาบันวิทยาศาสตร์ทางทะเล มหาวิทยาลัยบูรพา",
+    "file": "สถาบันวิทยาศาสตร์ทางทะเล มหาวิทยาลัยบูรพา",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.wongnai.com/attractions/324379Rs/photos/b771024ed86c45f09596a7f3a0142d5c",
+    "originalImage": "https://img.wongnai.com/p/1920x0/2022/01/08/b771024ed86c45f09596a7f3a0142d5c.jpg"
+  },
+  "ramayana": {
+    "source": "https://www.tripadvisor.com/AttractionProductReview-g293919-d12470463",
+    "artist": "Tripadvisor / แหล่งภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/ramayana.jpg",
+    "caption": "สวนน้ำรามายณะ",
+    "file": "สวนน้ำรามายณะ",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.tripadvisor.com/AttractionProductReview-g293919-d12470463",
+    "originalImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ac/07/b5/ramayana-water-park.jpg?w=1200"
+  },
+  "aquaverse": {
+    "source": "https://mgronline.com/travel/detail/9650000098422",
+    "artist": "MGR Online",
+    "image": "assets/images/aquaverse.jpg",
+    "caption": "Columbia Pictures Aquaverse",
+    "file": "Columbia Pictures Aquaverse",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://mgronline.com/travel/detail/9650000098422",
+    "originalImage": "https://mpics-cdn-acc.mgronline.com/pics/Images/565000009993504.JPEG"
+  },
+  "minisiam": {
+    "source": "https://thejigsawpuzzles.com/Puzzle-of-the-Day/Mini-Siam-Park-Pattaya-Thailand-jigsaw-puzzle",
+    "artist": "TheJigsawPuzzles / แหล่งภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/minisiam.jpg",
+    "caption": "เมืองจำลอง พัทยา",
+    "file": "เมืองจำลอง พัทยา",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://thejigsawpuzzles.com/Puzzle-of-the-Day/Mini-Siam-Park-Pattaya-Thailand-jigsaw-puzzle",
+    "originalImage": "https://thejigsawpuzzles.com/img-puzzle-7375211-1024/Mini-Siam-Park-Pattaya-Thailand"
+  },
+  "floatingmarket": {
+    "source": "https://travel.trueid.net/detail/Yna6QVVpYW85",
+    "artist": "TrueID",
+    "image": "assets/images/floatingmarket.jpg",
+    "caption": "ตลาดน้ำ 4 ภาค พัทยา",
+    "file": "ตลาดน้ำ 4 ภาค พัทยา",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://travel.trueid.net/detail/Yna6QVVpYW85",
+    "originalImage": "https://cms.dmpcdn.com/travel/2020/12/21/a1e5caa0-4378-11eb-80e3-2fbf2839b261_original.jpg"
+  },
+  "chakngeaw": {
+    "source": "https://www.wongnai.com/attractions/213814nW/photos/559df37466be4f2a98b6e10cd1a9f632",
+    "artist": "Wongnai / ผู้เผยแพร่ภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/chakngeaw.jpg",
+    "caption": "ตลาดจีนโบราณบ้านชากแง้ว",
+    "file": "ตลาดจีนโบราณบ้านชากแง้ว",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.wongnai.com/attractions/213814nW/photos/559df37466be4f2a98b6e10cd1a9f632",
+    "originalImage": "https://img.wongnai.com/p/1920x0/2016/12/06/559df37466be4f2a98b6e10cd1a9f632.jpg"
+  },
+  "tutu": {
+    "source": "https://utravel.com.hk/news/detail/28642/",
+    "artist": "U Travel",
+    "image": "assets/images/tutu.jpg",
+    "caption": "Tutu Beach",
+    "file": "Tutu Beach",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://utravel.com.hk/news/detail/28642/",
+    "originalImage": "https://resource02.ulifestyle.com.hk/ulcms/content/article/thumbnail/1280x720/ut/20190916205007__cover-tutubeach.jpg"
+  },
+  "cave": {
+    "source": "https://www.getyourguide.com/pattaya-beach-l144958/",
+    "artist": "GetYourGuide / แหล่งภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/cave.jpg",
+    "caption": "Cave Beach Club",
+    "file": "Cave Beach Club",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.getyourguide.com/pattaya-beach-l144958/",
+    "originalImage": "https://cdn.getyourguide.com/image/format%3Dauto%2Cfit%3Dcrop%2Cgravity%3Dauto%2Cquality%3D60%2Cwidth%3D400%2Cheight%3D265%2Cdpr%3D2/tour_img/2a7257d526416cc0a28f5e3da080b3fa5229fc794d877b173922f5998f663385.jpg"
+  },
+  "papa": {
+    "source": "https://www.wongnai.com/restaurants/459301ld/photos/65eecf3e7699446cb683aae14af28964",
+    "artist": "Wongnai / ผู้เผยแพร่ภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/papa.jpg",
+    "caption": "Papa Beach Pattaya",
+    "file": "Papa Beach Pattaya",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.wongnai.com/restaurants/459301ld/photos/65eecf3e7699446cb683aae14af28964",
+    "originalImage": "https://img.wongnai.com/p/1920x0/2023/06/29/65eecf3e7699446cb683aae14af28964.jpg"
+  },
+  "coffeewar": {
+    "source": "https://www.thairath.co.th/news/local/east/1879753",
+    "artist": "ไทยรัฐออนไลน์",
+    "image": "assets/images/coffeewar.jpg",
+    "caption": "Coffee War 331 Station",
+    "file": "Coffee War 331 Station",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.thairath.co.th/news/local/east/1879753",
+    "originalImage": "https://static.thairath.co.th/media/B6FtNKtgSqRqbnNsUi24IEvozFfNee5O7QoSqghh7upX9Q9JspeQOFGxqqHM3ts1E9uMm.webp"
+  },
+  "wat-saensuk": {
+    "source": "https://mgronline.com/travel/detail/9630000103613",
+    "artist": "MGR Online",
+    "image": "assets/images/wat-saensuk.jpg",
+    "caption": "วัดแสนสุขสุทธิวราราม",
+    "file": "วัดแสนสุขสุทธิวราราม",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://mgronline.com/travel/detail/9630000103613",
+    "originalImage": "https://mpics-cdn.mgronline.com/pics/Images/563000010688001.JPEG"
+  },
+  "millionstone": {
+    "source": "https://www.pattayafans.de/million-years-stone-park-crocodile-farm-pattaya.htm",
+    "artist": "Pattayafans",
+    "image": "assets/images/millionstone.jpg",
+    "caption": "อุทยานหินล้านปีและฟาร์มจระเข้พัทยา",
+    "file": "อุทยานหินล้านปีและฟาร์มจระเข้พัทยา",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.pattayafans.de/million-years-stone-park-crocodile-farm-pattaya.htm",
+    "originalImage": "https://www.pattayafans.de/images/krokodilfarm-3.jpg"
+  },
+  "namsai": {
+    "source": "https://gangtravel.com/103893",
+    "artist": "GangTravel",
+    "image": "assets/images/namsai.jpg",
+    "caption": "หาดน้ำใส",
+    "file": "หาดน้ำใส",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://gangtravel.com/103893",
+    "originalImage": "https://gangtravel.com/upload/2023/03/0e92ded20ff9d2d.jpg"
+  },
+  "wat-chong": {
+    "source": "https://www.wongnai.com/attractions/381604gg/photos/08fd297076c44ae8a69cc4cdd1a80872",
+    "artist": "Wongnai / ผู้เผยแพร่ภาพตามหน้าต้นฉบับ",
+    "image": "assets/images/wat-chong.jpg",
+    "caption": "วัดช่องแสมสาร",
+    "file": "วัดช่องแสมสาร",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://www.wongnai.com/attractions/381604gg/photos/08fd297076c44ae8a69cc4cdd1a80872",
+    "originalImage": "https://img.wongnai.com/p/1920x0/2022/05/25/08fd297076c44ae8a69cc4cdd1a80872.jpg"
+  },
+  "kohloy": {
+    "source": "https://coconuts.co/travel/coconuts-weekend-guide-to-sriracha-aka-thailands-little-osaka/",
+    "artist": "Coconuts",
+    "image": "assets/images/kohloy.jpg",
+    "caption": "เกาะลอยศรีราชา",
+    "file": "เกาะลอยศรีราชา",
+    "license": "สิทธิ์ตามต้นฉบับ — ไม่พบการระบุสัญญาอนุญาตแบบเปิด",
+    "licenseURL": "https://coconuts.co/travel/coconuts-weekend-guide-to-sriracha-aka-thailands-little-osaka/",
+    "originalImage": "https://cdn.coconuts.co/coconuts/wp-content/uploads/2019/08/KOH-LOY-PARK.jpg"
+  }
+}

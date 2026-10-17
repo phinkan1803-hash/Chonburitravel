@@ -1,0 +1,17 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
+const base=path.join(__dirname,'..');const search=require(path.join(base,'assets/search.js'));const places=JSON.parse(fs.readFileSync(path.join(base,'assets/places.json'),'utf8'));
+const find=q=>places.filter(p=>search.matches(p,q));const ids=q=>find(q).map(x=>x.id);
+assert.equal(places.length,40);assert.equal(new Set(places.map(p=>p.id)).size,40);assert.equal(new Set(places.map(p=>p.name)).size,40);
+for(const p of places)for(const key of ['name','category','district','history','highlight','address','keywords','source'])assert.ok(p[key],p.id+':'+key);
+for(const q of ['', ' ', '\u200b'])assert.equal(find(q).length,40);
+assert.deepEqual(ids('คาเฟ่'),['tutu','cave','papa','coffeewar']);for(const q of ['ร้านกาแฟ','กาแฟ','CAFE','café','coffee','คาเฟ'])assert.deepEqual(ids(q),ids('คาเฟ่'),q);
+assert.ok(ids('วัด').includes('wat-yai'));assert.ok(ids('วัด').includes('wat-tabaek'));assert.deepEqual(ids('ไหว้พระ'),ids('วัด'));assert.deepEqual(ids('temple'),ids('วัด'));assert.ok(find('วัด').length<20);assert.ok(!ids('วัด').includes('tutu'));assert.ok(!ids('วัด').includes('bangsaen'));assert.ok(!ids('วัด').includes('ramayana'));
+assert.ok(ids('ทะเล').includes('kohlarn'));assert.ok(ids('ทะเล').includes('bangsaen'));assert.ok(!ids('ทะเล').includes('coffeewar'));
+assert.ok(ids('ชายหาด').includes('nangram'));assert.ok(ids('ชายหาด').includes('jomtien'));assert.deepEqual(ids('beach'),ids('ชายหาด'));
+assert.deepEqual(ids('คาเฟ่ สัตหีบ'),ids('คาเฟ่'));assert.equal(find('คาเฟ่ ศรีราชา').length,0);assert.deepEqual(ids('coffee Sattahip'),ids('คาเฟ่'));
+assert.ok(ids('ชายหาด พัทยา').includes('pattaya-beach'));assert.ok(!ids('ชายหาด พัทยา').includes('bangsaen'));
+assert.deepEqual(ids('บางแสน'),ids('BANG SAEN'));assert.deepEqual(ids('ศรีราชา'),ids('si racha'));assert.ok(ids('จุดชมวิว').includes('pratamnak'));
+assert.equal(find('ไม่มีสถานที่นี้แน่นอน').length,0);assert.equal(find('<script>alert(1)</script>').length,0);
+const filtered=places.filter(p=>p.category==='คาเฟ่'&&p.district==='สัตหีบ'&&search.matches(p,'ทะเล'));assert.equal(filtered.length,3);
+console.log('PASS: 40 unique places; Thai/English synonyms; cafe/temple/sea/beach; multi-term AND; category+district; blank and no-match searches.');
+for(const q of ['วัด','ทะเล','คาเฟ่','ชายหาด','ตลาด','ธรรมชาติ','พิพิธภัณฑ์','สวนน้ำ'])console.log(q+': '+find(q).length);
